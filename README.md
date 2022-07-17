@@ -14,7 +14,7 @@ Son buenos puntos de partida para probar y depurar código.
 
 Aquí, se utilizan 60 000 imágenes para entrenar la red y 10 000 imágenes para evaluar la precisión con la que la red aprendió a clasificar imágenes. 
 
-![image](https://user-images.githubusercontent.com/105322443/179403540-ee532a27-0184-4cee-a5a9-96a90f05fd7d.png)
+![image](https://user-images.githubusercontent.com/105322443/179403577-0f8bb9fb-0fb2-49ea-a34a-0ce0a10be72f.png)
 
 ________________________________________________________________________
 #Licensed under the Apache License, Version 2.0 (the "License");
